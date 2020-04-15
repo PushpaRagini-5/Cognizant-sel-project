@@ -1,0 +1,600 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 16,
+        "name": "Login to the application.",
+        "description": "",
+        "id": "meritnation-application;login-to-the-application.;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 45562582100,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I am on the Homa Page",
+            "match": {
+              "location": "Meritnation_test.launch_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7337206800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I click the login button",
+            "match": {
+              "location": "Meritnation_test.to_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 425276100,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I enter the valid \"meritnationteacher.teacher@gmail.com\" and \"Teacher@5\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnationteacher.teacher@gmail.com",
+                  "offset": 19
+                },
+                {
+                  "val": "Teacher@5",
+                  "offset": 62
+                }
+              ],
+              "location": "Meritnation_test.enter_email_and_pwd(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4485686800,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "I click login button",
+            "match": {
+              "location": "Meritnation_test.click_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 7,
+            "name": "@tc_01_login"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 20,
+        "name": "selecting a subject to view the NCERT solution",
+        "description": "",
+        "id": "meritnation-application;selecting-a-subject-to-view-the-ncert-solution",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 160572050900,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "I logged in to the application \u0026 I am on Home Page",
+            "match": {
+              "location": "Meritnation_test.navigate_to_Homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 7535623400,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "I click the subject",
+            "match": {
+              "location": "Meritnation_test.click_subject()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 50384900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I navigate to study page",
+            "match": {
+              "location": "Meritnation_test.navigate_to_Studypage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2718920200,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I click the topic",
+            "match": {
+              "location": "Meritnation_test.click_topic()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1826405900,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "I click the view NCERT solution",
+            "match": {
+              "location": "Meritnation_test.view_ncert_solution()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5339517000,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I take screenshot of the solution",
+            "match": {
+              "location": "Meritnation_test.take_screenshot()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 19,
+            "name": "@tc_02_view_NCERT_solution"
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 29,
+            "value": "#I want to select IIT-JEE \u0026 NEET from the Entrance Exams"
+          },
+          {
+            "line": 30,
+            "value": "#and I can select revision notes \u0026 best books"
+          },
+          {
+            "line": 31,
+            "value": "#So that I can download \u0026 take screenshot respectively"
+          }
+        ],
+        "line": 34,
+        "name": "select IIT-JEE to download revision notes",
+        "description": "",
+        "id": "meritnation-application;select-iit-jee-to-download-revision-notes",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 18614982200,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "I am on the HomePage",
+            "match": {
+              "location": "Meritnation_test.HomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 40416088400,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "I click the IIT-JEE from the dropdown",
+            "match": {
+              "location": "Meritnation_test.IIT_JEE()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4921490200,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I click the motion topic",
+            "match": {
+              "location": "Meritnation_test.click_motion_topic()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4242799100,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "I click the view revision notes button",
+            "match": {
+              "location": "Meritnation_test.click_revisionNotes()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1034161600,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "I click the download button",
+            "match": {
+              "location": "Meritnation_test.download_revnotes()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 33,
+            "name": "@download_RevisionNotes"
+          }
+        ]
+      },
+      {
+        "line": 42,
+        "name": "select IITJEE to know the important books",
+        "description": "",
+        "id": "meritnation-application;select-iitjee-to-know-the-important-books",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 73312893500,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "Iam logged in to application \u0026 I am on the Home Page",
+            "match": {
+              "location": "Meritnation_test.navigate_to_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 6574087000,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "I click the IITJEE from the dropdown",
+            "match": {
+              "location": "Meritnation_test.IITJEE()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 16364446200,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "I click Science-practicals and take screenshot",
+            "match": {
+              "location": "Meritnation_test.science_practicals()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 41,
+            "name": "@Science-practicals"
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 47,
+            "value": "#I want to explore the take a break page"
+          },
+          {
+            "line": 48,
+            "value": "#and click the daily teaser"
+          },
+          {
+            "line": 49,
+            "value": "#So that I can see solution for yesterday\u0027s teaser"
+          }
+        ],
+        "line": 52,
+        "name": "take a break page",
+        "description": "",
+        "id": "meritnation-application;take-a-break-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 47170802700,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "I am in the HomePage",
+            "match": {
+              "location": "Meritnation_test.In_hoempage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5867703500,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "I click on the take a break",
+            "match": {
+              "location": "Meritnation_test.click_on_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 161034500,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "I click on the daily teaser",
+            "match": {
+              "location": "Meritnation_test.click_on_dailyteaser()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2585809200,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "I click on the view solution for yesterday\u0027s teaser",
+            "match": {
+              "location": "Meritnation_test.click_on_view_solution_of_yesterday_sol()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 51,
+            "name": "@Take-a-break"
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 59,
+            "value": "#I want to explore the discover yourself"
+          },
+          {
+            "line": 60,
+            "value": "#and I click the career guidance and field options"
+          },
+          {
+            "line": 61,
+            "value": "#So that I can take the screenshots"
+          }
+        ],
+        "line": 64,
+        "name": "explore discover your self",
+        "description": "",
+        "id": "meritnation-application;explore-discover-your-self",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 19208612300,
+              "status": "passed"
+            },
+            "line": 65,
+            "name": "I need to be in Home Page",
+            "match": {
+              "location": "Meritnation_test.in_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 36807079700,
+              "status": "passed"
+            },
+            "line": 66,
+            "name": "I click career guidance option from Discover your self",
+            "match": {
+              "location": "Meritnation_test.career_guidance()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 133946400,
+              "status": "passed"
+            },
+            "line": 67,
+            "name": "I click on the medical field",
+            "match": {
+              "location": "Meritnation_test.medical_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5225487000,
+              "status": "passed"
+            },
+            "line": 68,
+            "name": "I take the screenshot",
+            "match": {
+              "location": "Meritnation_test.screenshot()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 63,
+            "name": "@Discover-your-self"
+          }
+        ]
+      },
+      {
+        "line": 71,
+        "name": "take screenshots",
+        "description": "",
+        "id": "meritnation-application;take-screenshots",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 48568040400,
+              "status": "passed"
+            },
+            "line": 72,
+            "name": "I am on the career guidance page",
+            "match": {
+              "location": "Meritnation_test.on_careerguidance_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 11083075900,
+              "status": "passed"
+            },
+            "line": 73,
+            "name": "I click on the skill builder",
+            "match": {
+              "location": "Meritnation_test.skill_builder()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 6455093501,
+              "status": "passed"
+            },
+            "line": 74,
+            "name": "I click on speaking in public and take a screenshot",
+            "match": {
+              "location": "Meritnation_test.speaking_in_public()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 70,
+            "name": "@skill-builder"
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 77,
+            "value": "#I want to add students to the existing batch in the profile page"
+          },
+          {
+            "line": 78,
+            "value": "#and i want to logout from the application"
+          }
+        ],
+        "line": 81,
+        "name": "adding students to existing batch and logout from the application",
+        "description": "",
+        "id": "meritnation-application;adding-students-to-existing-batch-and-logout-from-the-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 47968758600,
+              "status": "passed"
+            },
+            "line": 82,
+            "name": "I am on the home page of the application",
+            "match": {
+              "location": "Meritnation_test.home_page_of_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3672688400,
+              "status": "passed"
+            },
+            "line": 83,
+            "name": "I add students to the existing batch",
+            "match": {
+              "location": "Meritnation_test.add_students_to_existing_batch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4389673600,
+              "status": "passed"
+            },
+            "line": 84,
+            "name": "I logout from the application",
+            "match": {
+              "location": "Meritnation_test.logout_from_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 80,
+            "name": "@add-students\u0026logout"
+          }
+        ]
+      }
+    ],
+    "name": "Meritnation application",
+    "description": "As a teacher I want to login to the meritnation application\r\nand I want to select a subject\r\nSo that I can see the NCERT solutions.",
+    "id": "meritnation-application",
+    "keyword": "Feature",
+    "uri": "C:/Users/Poornachandrika Divi/eclipse-workspace/MERITNATION-PROJECT/src/test/resources/features/Meritnation.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Meritnation"
+      }
+    ]
+  }
+]
