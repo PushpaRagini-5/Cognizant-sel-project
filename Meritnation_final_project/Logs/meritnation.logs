@@ -1,0 +1,143 @@
+15/04/2020 19:14:05 Logger user launches the browser
+15/04/2020 19:14:05 Logger User is on the homepage
+15/04/2020 19:14:05 Logger user is on the login page
+15/04/2020 19:14:06 Logger user enters the valid username and password
+15/04/2020 19:14:28 Logger user is logged in to the website and closes the browser
+15/04/2020 19:14:57 Logger user launches the browser
+15/04/2020 19:14:57 Logger User is on the homepage
+15/04/2020 19:14:57 Logger user is on the login page
+15/04/2020 19:14:58 Logger user enters the valid username and password
+15/04/2020 19:15:19 Logger user is logged in to the website and closes the browser
+15/04/2020 19:15:47 Logger user launches the browser
+15/04/2020 19:15:47 Logger User is on the homepage
+15/04/2020 19:15:47 Logger user is on the login page
+15/04/2020 19:15:48 Logger user enters the valid username and password
+15/04/2020 19:16:10 Logger user is logged in to the website and closes the browser
+15/04/2020 19:16:36 Logger user launches the browser
+15/04/2020 19:16:36 Logger User is on the homepage
+15/04/2020 19:16:37 Logger user is on the login page
+15/04/2020 19:16:37 Logger user enters the valid username and password
+15/04/2020 19:17:36 Logger user launches the browser
+15/04/2020 19:17:36 Logger User is on the homepage
+15/04/2020 19:17:36 Logger user is on the login page
+15/04/2020 19:17:37 Logger user enters the valid username and password
+15/04/2020 19:18:50 Logger user is logged in to the website 
+15/04/2020 19:18:50 Logger user clicks on profile icon
+15/04/2020 19:18:51 Logger user clicks on my account
+15/04/2020 19:18:52 Logger user navigates to profile page
+15/04/2020 19:18:52 Logger user clicks on edit profile
+15/04/2020 19:19:05 Logger user changes password and updates the account details 
+15/04/2020 19:19:05 Logger user clicks save button
+15/04/2020 19:19:48 Logger user is logged in to the website 
+15/04/2020 19:19:48 Logger user clicks on profile icon
+15/04/2020 19:19:50 Logger user clicks on my account
+15/04/2020 19:19:50 Logger user navigates to profile page
+15/04/2020 19:19:50 Logger user clicks on edit profile
+15/04/2020 19:20:01 Logger User updates account details with school name and Grade
+15/04/2020 19:20:01 Logger user clicks save button
+15/04/2020 19:20:44 Logger user is logged in to the website 
+15/04/2020 19:20:45 Logger user navigates to profile page
+15/04/2020 19:20:50 Logger user updates personal details
+15/04/2020 19:20:50 Logger user clicks save button
+15/04/2020 19:21:33 Logger user is logged in to the website 
+15/04/2020 19:21:35 Logger user navigates to profile page
+15/04/2020 19:22:33 Logger user is logged in to the website 
+15/04/2020 19:22:36 Logger user navigates to profile page
+15/04/2020 19:22:45 Logger user updates parent's details
+15/04/2020 19:22:45 Logger user clicks save button
+15/04/2020 19:23:27 Logger user is logged in to the website 
+15/04/2020 19:23:27 Logger user clicks on profile icon
+15/04/2020 19:23:28 Logger user clicks on logout button
+15/04/2020 19:23:35 Logger user is logged out of the account
+15/04/2020 19:24:18 Logger user is logged in to the website 
+15/04/2020 19:24:21 Logger user clicks on feed from navigation bar
+15/04/2020 19:24:22 Logger user is navigated to feed page
+15/04/2020 19:24:22 Logger user clicks on my post tab
+15/04/2020 19:24:22 Logger user enters the post details
+15/04/2020 19:24:27 Logger user clicks on post button
+15/04/2020 19:24:34 Logger user posts on the feed
+15/04/2020 19:25:17 Logger user clicks on purchase link 
+15/04/2020 19:25:19 Logger The log in linked page is clicked
+15/04/2020 19:25:21 Logger Am logging through step
+15/04/2020 19:25:22 Logger user selects topics for test course 
+15/04/2020 19:25:22 Logger user click generate test button
+15/04/2020 19:25:34 Logger user adds the test course to cart
+15/04/2020 19:26:22 Logger user is on homepage 
+15/04/2020 19:26:27 Logger user plays a video 
+15/04/2020 19:26:29 Logger user takes screenshot of the video 
+15/04/2020 19:26:29 Logger user closes the video 
+15/04/2020 19:26:35 Logger user closes the browser 
+15/04/2020 19:27:04 Logger login link is clicked
+15/04/2020 19:27:04 Logger email is entered
+15/04/2020 19:27:04 Logger password is entered
+15/04/2020 19:27:04 Logger login is clicked
+15/04/2020 19:27:55 Logger login link is clicked
+15/04/2020 19:27:55 Logger email is entered
+15/04/2020 19:27:56 Logger password is entered
+15/04/2020 19:27:56 Logger login is clicked
+15/04/2020 19:28:11 Logger click_me is clicked
+15/04/2020 19:28:13 Logger myprofile is clicked
+15/04/2020 19:28:15 Logger friend name is entered
+15/04/2020 19:28:15 Logger friend name is selected
+15/04/2020 19:28:20 Logger enterkey is pressed
+15/04/2020 19:28:51 Logger login link is clicked
+15/04/2020 19:28:51 Logger email is entered
+15/04/2020 19:28:51 Logger password is entered
+15/04/2020 19:28:51 Logger login is clicked
+15/04/2020 19:29:06 Logger click_me is clicked
+15/04/2020 19:29:08 Logger myprofile is clicked
+15/04/2020 19:29:36 Logger login link is clicked
+15/04/2020 19:29:37 Logger email is entered
+15/04/2020 19:29:37 Logger password is entered
+15/04/2020 19:29:37 Logger login is clicked
+15/04/2020 19:29:52 Logger add is clicked
+15/04/2020 19:29:54 Logger parent details are selected
+15/04/2020 19:29:54 Logger parent name is entered
+15/04/2020 19:29:55 Logger parent mail is entered
+15/04/2020 19:29:56 Logger parent no is entered
+15/04/2020 19:29:56 Logger save button is clicked
+15/04/2020 19:30:27 Logger login link is clicked
+15/04/2020 19:30:27 Logger email is entered
+15/04/2020 19:30:27 Logger password is entered
+15/04/2020 19:30:27 Logger login is clicked
+15/04/2020 19:30:43 Logger callme is clicked
+15/04/2020 19:30:43 Logger phone no is entered
+15/04/2020 19:30:43 Logger call now is clicked
+15/04/2020 19:31:16 Logger the button to login page clicked
+15/04/2020 19:31:17 Logger email and password entered
+15/04/2020 19:31:17 Logger login button clicked
+15/04/2020 19:31:48 Logger the button to login page clicked
+15/04/2020 19:31:48 Logger email and password entered
+15/04/2020 19:31:48 Logger login button clicked
+15/04/2020 19:32:06 Logger subject icon clicked
+15/04/2020 19:32:09 Logger topic button clicked
+15/04/2020 19:32:09 Logger View NCERT Solutions button clicked
+15/04/2020 19:32:39 Logger the button to login page clicked
+15/04/2020 19:32:40 Logger email and password entered
+15/04/2020 19:32:40 Logger login button clicked
+15/04/2020 19:32:57 Logger IITJEE button clicked
+15/04/2020 19:33:00 Logger motion topic button clicked
+15/04/2020 19:33:01 Logger View Revision Notes button clicked
+15/04/2020 19:33:02 Logger Download button clicked
+15/04/2020 19:33:31 Logger the button to login page clicked
+15/04/2020 19:33:32 Logger email and password entered
+15/04/2020 19:33:32 Logger login button clicked
+15/04/2020 19:33:49 Logger IITJEE button clicked again
+15/04/2020 19:33:54 Logger Science practicals option clicked
+15/04/2020 19:34:26 Logger the button to login page clicked
+15/04/2020 19:34:27 Logger email and password entered
+15/04/2020 19:34:27 Logger login button clicked
+15/04/2020 19:34:44 Logger Take-a-Break button clicked
+15/04/2020 19:34:46 Logger Daily Teaser button Clicked
+15/04/2020 19:34:46 Logger View yesterday's teaser button clicked
+15/04/2020 19:35:18 Logger the button to login page clicked
+15/04/2020 19:35:19 Logger email and password entered
+15/04/2020 19:35:19 Logger login button clicked
+15/04/2020 19:35:36 Logger Career-Guidance button clicked
+15/04/2020 19:35:37 Logger Medical button clicked
+15/04/2020 19:36:09 Logger the button to login page clicked
+15/04/2020 19:36:10 Logger email and password entered
+15/04/2020 19:36:10 Logger login button clicked
+15/04/2020 19:36:27 Logger Career-Guidance button clicked
+15/04/2020 19:36:28 Logger Skill Builder button clicked
+15/04/2020 19:36:30 Logger Speak in public button clicked

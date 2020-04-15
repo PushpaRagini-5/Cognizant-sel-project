@@ -1,0 +1,2438 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 15,
+        "name": "To sign in the existing user",
+        "description": "",
+        "id": "aut:-meritnation;to-sign-in-the-existing-user;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 28995696900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I need to launch the browser",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_need_to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 692099,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on the homepage",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_am_on_the_homepage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 805808900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on the login link",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 313374800,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter the valid \"meritnation.test@gmail.com\" and \"password1234\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 19
+                },
+                {
+                  "val": "password1234",
+                  "offset": 52
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_enter_the_valid_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 22034425899,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on the login button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_button0()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 5,
+            "name": "@tc_01_login"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "To sign in the existing user",
+        "description": "",
+        "id": "aut:-meritnation;to-sign-in-the-existing-user;;3",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 29001764001,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I need to launch the browser",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_need_to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 74500,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on the homepage",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_am_on_the_homepage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 560188400,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on the login link",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 275216300,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter the valid \"adnanmohd11@gmail.com\" and \"Adnan260896\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "adnanmohd11@gmail.com",
+                  "offset": 19
+                },
+                {
+                  "val": "Adnan260896",
+                  "offset": 47
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_enter_the_valid_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 21740326499,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on the login button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_button0()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 5,
+            "name": "@tc_01_login"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 17,
+        "name": "To sign in the existing user",
+        "description": "",
+        "id": "aut:-meritnation;to-sign-in-the-existing-user;;4",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 27238739900,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I need to launch the browser",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_need_to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 78501,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on the homepage",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_am_on_the_homepage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 623593700,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on the login link",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 311849000,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter the valid \"meritnationteacher.teacher@gmail.com\" and \"Teacher@5\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnationteacher.teacher@gmail.com",
+                  "offset": 19
+                },
+                {
+                  "val": "Teacher@5",
+                  "offset": 62
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_enter_the_valid_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 22023414500,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "I click on the login button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_button0()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 5,
+            "name": "@tc_01_login"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 18,
+        "name": "To sign in the existing user",
+        "description": "",
+        "id": "aut:-meritnation;to-sign-in-the-existing-user;;5",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 26663200899,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I need to launch the browser",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_need_to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 68301,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on the homepage",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_am_on_the_homepage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 569645301,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on the login link",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 249039100,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter the valid \"meritnation@gmail.com\" and \"password\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation@gmail.com",
+                  "offset": 19
+                },
+                {
+                  "val": "password",
+                  "offset": 47
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_enter_the_valid_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 30168591000,
+              "error_message": "org.openqa.selenium.NoSuchFrameException: No frame element found by name or id container-notification-frame-5e78cbd57635bd53149c7eaf\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-LFJQBRS\u0027, ip: \u0027192.168.0.71\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_241\u0027\nDriver info: driver.version: unknown\r\n\tat org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.frame(RemoteWebDriver.java:885)\r\n\tat com.seleniumutil.seleniumutil.close_popup2(seleniumutil.java:46)\r\n\tat com.StepDefinition.Meritnation_editprofileStep.i_click_on_the_login_button0(Meritnation_editprofileStep.java:68)\r\n\tat ✽.Then I click on the login button(C:/Users/SRAAWYA CH/git/Cognizant_Project/Meritnation/src/test/resources/Features/Meritnation.feature:11)\r\n",
+              "status": "failed"
+            },
+            "line": 11,
+            "name": "I click on the login button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_button0()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 5,
+            "name": "@tc_01_login"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 19,
+        "name": "To sign in the existing user",
+        "description": "",
+        "id": "aut:-meritnation;to-sign-in-the-existing-user;;6",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 28566394400,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "I need to launch the browser",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_need_to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 106600,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "I am on the homepage",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_am_on_the_homepage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 619245500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "I click on the login link",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 347005500,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "I enter the valid \"meritnation@gmail.com\" and \"password12\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation@gmail.com",
+                  "offset": 19
+                },
+                {
+                  "val": "password12",
+                  "offset": 47
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_enter_the_valid_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 30164955500,
+              "error_message": "org.openqa.selenium.NoSuchFrameException: No frame element found by name or id container-notification-frame-5e78cbd57635bd53149c7eaf\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-LFJQBRS\u0027, ip: \u0027192.168.0.71\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_241\u0027\nDriver info: driver.version: unknown\r\n\tat org.openqa.selenium.remote.RemoteWebDriver$RemoteTargetLocator.frame(RemoteWebDriver.java:885)\r\n\tat com.seleniumutil.seleniumutil.close_popup2(seleniumutil.java:46)\r\n\tat com.StepDefinition.Meritnation_editprofileStep.i_click_on_the_login_button0(Meritnation_editprofileStep.java:68)\r\n\tat ✽.Then I click on the login button(C:/Users/SRAAWYA CH/git/Cognizant_Project/Meritnation/src/test/resources/Features/Meritnation.feature:11)\r\n",
+              "status": "failed"
+            },
+            "line": 11,
+            "name": "I click on the login button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_the_login_button0()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 5,
+            "name": "@tc_01_login"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 33,
+        "name": "To change password of the user account and update account details",
+        "description": "",
+        "id": "aut:-meritnation;to-change-password-of-the-user-account-and-update-account-details;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 42976061900,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "I log in with credentials \"meritnation.test@gmail.com\" and \"password1234\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 27
+                },
+                {
+                  "val": "password1234",
+                  "offset": 60
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_log_in_with_credentials_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 77327699,
+              "status": "passed"
+            },
+            "line": 24,
+            "name": "I click on profile icon",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_profile_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 979240700,
+              "status": "passed"
+            },
+            "line": 25,
+            "name": "click on My Account",
+            "match": {
+              "location": "Meritnation_editprofileStep.click_on_My_Account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1319336701,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "I  navigate to profile page",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_navigate_to_profile_page1()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 82021099,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "I click on Edit profile",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_Edit_profile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 12602745400,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "I change password with newPassword",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_change_password_with_newPassword()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 92501,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "I click save button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_save_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 21,
+            "name": "@tc_02_editprofile"
+          },
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 47,
+        "name": "To change password of the user account and update account details",
+        "description": "",
+        "id": "aut:-meritnation;to-change-password-of-the-user-account-and-update-account-details;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 43230149700,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "I log in with credentials \"meritnation.test@gmail.com\" and \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 27
+                },
+                {
+                  "val": "password123",
+                  "offset": 60
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_log_in_with_credentials_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 99719100,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "I click on profile icon",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_profile_icon()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1485270699,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "click on My Account",
+            "match": {
+              "location": "Meritnation_editprofileStep.click_on_My_Account()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 401349799,
+              "status": "passed"
+            },
+            "line": 40,
+            "name": "I  navigate to profile page",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_navigate_to_profile_page1()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 64269800,
+              "status": "passed"
+            },
+            "line": 41,
+            "name": "I click on Edit profile",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_Edit_profile()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 11059328100,
+              "status": "passed"
+            },
+            "line": 42,
+            "name": "I update account details with emailId and grade",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_update_account_details_with_emailId_and_grade()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 84200,
+              "status": "passed"
+            },
+            "line": 43,
+            "name": "I click save button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_save_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 35,
+            "name": "@tc_03_editprofile"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 58,
+        "name": "To update Personal details of the user",
+        "description": "",
+        "id": "aut:-meritnation;to-update-personal-details-of-the-user;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 42377878600,
+              "status": "passed"
+            },
+            "line": 51,
+            "name": "I log in with credentials \"meritnation.test@gmail.com\" and \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 27
+                },
+                {
+                  "val": "password123",
+                  "offset": 60
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_log_in_with_credentials_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1606612201,
+              "status": "passed"
+            },
+            "line": 52,
+            "name": "I navigate to profile page",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_navigate_to_profile_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4782610600,
+              "status": "passed"
+            },
+            "line": 53,
+            "name": "I update my personal details with DOB and State",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_update_my_personal_details_with_DOB_and_State()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 86701,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "I click save button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_save_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 49,
+            "name": "@tc_03_editprofile"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 69,
+        "name": "To update school details of the user",
+        "description": "",
+        "id": "aut:-meritnation;to-update-school-details-of-the-user;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 42763740400,
+              "status": "passed"
+            },
+            "line": 62,
+            "name": "I log in with credentials \"meritnation.test@gmail.com\" and \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 27
+                },
+                {
+                  "val": "password123",
+                  "offset": 60
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_log_in_with_credentials_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1817251300,
+              "status": "passed"
+            },
+            "line": 63,
+            "name": "I navigate to profile page",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_navigate_to_profile_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 15960073700,
+              "error_message": "org.openqa.selenium.ElementNotInteractableException: element not interactable\n  (Session info: chrome\u003d80.0.3987.163)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-LFJQBRS\u0027, ip: \u0027192.168.0.71\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_241\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\\Users\\SRAAWYA CH\\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:55472}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: e4e3dcddc8a64f1951b24fc8ecf69848\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)\r\n\tat com.pages.Meritnation_EditProfile.updateSchoolDetails(Meritnation_EditProfile.java:98)\r\n\tat com.StepDefinition.Meritnation_editprofileStep.i_update_my_School_details_with_SchoolName(Meritnation_editprofileStep.java:206)\r\n\tat ✽.Then I update my School details with SchoolName(C:/Users/SRAAWYA CH/git/Cognizant_Project/Meritnation/src/test/resources/Features/Meritnation.feature:64)\r\n",
+              "status": "failed"
+            },
+            "line": 64,
+            "name": "I update my School details with SchoolName",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_update_my_School_details_with_SchoolName()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 65,
+            "name": "I click save button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_save_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          },
+          {
+            "line": 60,
+            "name": "@tc_04_editprofile"
+          }
+        ]
+      },
+      {
+        "line": 80,
+        "name": "To update parent\u0027s details of the user",
+        "description": "",
+        "id": "aut:-meritnation;to-update-parent\u0027s-details-of-the-user;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 42636841501,
+              "status": "passed"
+            },
+            "line": 73,
+            "name": "I log in with credentials \"meritnation.test@gmail.com\" and \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 27
+                },
+                {
+                  "val": "password123",
+                  "offset": 60
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_log_in_with_credentials_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2278527000,
+              "status": "passed"
+            },
+            "line": 74,
+            "name": "I navigate to profile page",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_navigate_to_profile_page()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 8972093799,
+              "status": "passed"
+            },
+            "line": 75,
+            "name": "I update parent details with parentName , parentEmailId and MobileNo.",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_update_parent_details_with_parentName_parentEmailId_and_MobileNo()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 77701,
+              "status": "passed"
+            },
+            "line": 76,
+            "name": "I click save button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_save_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          },
+          {
+            "line": 71,
+            "name": "@tc_05_editprofile"
+          }
+        ]
+      },
+      {
+        "line": 91,
+        "name": "To Logout",
+        "description": "",
+        "id": "aut:-meritnation;to-logout;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 42504032199,
+              "status": "passed"
+            },
+            "line": 84,
+            "name": "I log in with credentials \"meritnation.test@gmail.com\" and \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 27
+                },
+                {
+                  "val": "password123",
+                  "offset": 60
+                }
+              ],
+              "location": "Meritnation_editprofileStep.i_log_in_with_credentials_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 96049399,
+              "status": "passed"
+            },
+            "line": 85,
+            "name": "I click on profile icon",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_profile_icon()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 963057500,
+              "status": "passed"
+            },
+            "line": 86,
+            "name": "I click on logout button",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_click_on_logout_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6605004000,
+              "status": "passed"
+            },
+            "line": 87,
+            "name": "I am logged out",
+            "match": {
+              "location": "Meritnation_editprofileStep.i_am_logged_out()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          },
+          {
+            "line": 82,
+            "name": "@tc_06_logout"
+          }
+        ]
+      },
+      {
+        "line": 106,
+        "name": "To explore Feed page of the user",
+        "description": "",
+        "id": "aut:-meritnation;to-explore-feed-page-of-the-user;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 43036590900,
+              "status": "passed"
+            },
+            "line": 96,
+            "name": "I log into the website with credentials \"meritnation.test@gmail.com\" and \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 41
+                },
+                {
+                  "val": "password123",
+                  "offset": 74
+                }
+              ],
+              "location": "Meritnation_AddPostOnFeedStep.i_log_into_the_website_with_credentials_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2762413999,
+              "status": "passed"
+            },
+            "line": 97,
+            "name": "I click on Feed from homepage title bar",
+            "match": {
+              "location": "Meritnation_AddPostOnFeedStep.i_click_on_Feed_from_homepage_title_bar()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1252325499,
+              "status": "passed"
+            },
+            "line": 98,
+            "name": "I navigate to Feed Page",
+            "match": {
+              "location": "Meritnation_AddPostOnFeedStep.i_navigate_to_Feed_Page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 167658300,
+              "status": "passed"
+            },
+            "line": 99,
+            "name": "I navigate to my post",
+            "match": {
+              "location": "Meritnation_AddPostOnFeedStep.i_navigate_to_my_post()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 156115400,
+              "status": "passed"
+            },
+            "line": 100,
+            "name": "I enter the post details in edit box as Note",
+            "match": {
+              "location": "Meritnation_AddPostOnFeedStep.i_enter_the_post_details_in_edit_box_as_Note()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 5083145501,
+              "status": "passed"
+            },
+            "line": 101,
+            "name": "I click Post button",
+            "match": {
+              "location": "Meritnation_AddPostOnFeedStep.i_click_Post_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6452431999,
+              "status": "passed"
+            },
+            "line": 102,
+            "name": "My post appears in MyPost",
+            "match": {
+              "location": "Meritnation_AddPostOnFeedStep.my_post_appears_in_MyPost()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 94,
+            "name": "@tc_02_FeedPage"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 121,
+        "name": "To find the test course and add to cart",
+        "description": "",
+        "id": "aut:-meritnation;to-find-the-test-course-and-add-to-cart;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 43502191200,
+              "status": "passed"
+            },
+            "line": 112,
+            "name": "I need to launch the browser and log in with credentials \"meritnation.test@gmail.com\" and \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 58
+                },
+                {
+                  "val": "password123",
+                  "offset": 91
+                }
+              ],
+              "location": "Meritnation_SearchTestAndAddToCartStep.i_need_to_launch_the_browser_and_log_in_with_credentials_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1550106601,
+              "status": "passed"
+            },
+            "line": 113,
+            "name": "I click on purchase",
+            "match": {
+              "location": "Meritnation_SearchTestAndAddToCartStep.i_click_on_purchase()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2662184901,
+              "status": "passed"
+            },
+            "line": 114,
+            "name": "I Scroll down to test generator",
+            "match": {
+              "location": "Meritnation_SearchTestAndAddToCartStep.i_Scroll_down_to_test_generator()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 147124199,
+              "status": "passed"
+            },
+            "line": 115,
+            "name": "select one topic to create test",
+            "match": {
+              "location": "Meritnation_SearchTestAndAddToCartStep.select_one_topic_to_create_test()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 260936500,
+              "status": "passed"
+            },
+            "line": 116,
+            "name": "I click on generate test button",
+            "match": {
+              "location": "Meritnation_SearchTestAndAddToCartStep.i_click_on_generate_test_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 12383214700,
+              "status": "passed"
+            },
+            "line": 117,
+            "name": "I add first Test Course to cart",
+            "match": {
+              "location": "Meritnation_SearchTestAndAddToCartStep.i_add_first_Test_Course_to_cart()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 110,
+            "name": "@tc_02_FindTest"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 134,
+        "name": "To play tutorial video",
+        "description": "",
+        "id": "aut:-meritnation;to-play-tutorial-video;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 47289500100,
+              "status": "passed"
+            },
+            "line": 126,
+            "name": "I log into website with credentials \"meritnation.test@gmail.com\" and \"password123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnation.test@gmail.com",
+                  "offset": 37
+                },
+                {
+                  "val": "password123",
+                  "offset": 70
+                }
+              ],
+              "location": "Meritnation_PlayAVideoStep.i_log_into_website_with_credentials_and(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 5765057600,
+              "status": "passed"
+            },
+            "line": 127,
+            "name": "I play a tutorial video on topic",
+            "match": {
+              "location": "Meritnation_PlayAVideoStep.i_play_a_tutorial_video_on_topic()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1185228500,
+              "status": "passed"
+            },
+            "line": 128,
+            "name": "I take Screenshot",
+            "match": {
+              "location": "Meritnation_PlayAVideoStep.i_take_Screenshot()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 105927400,
+              "status": "passed"
+            },
+            "line": 129,
+            "name": "I click on close button",
+            "match": {
+              "location": "Meritnation_PlayAVideoStep.i_click_on_close_button()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 6080180500,
+              "status": "passed"
+            },
+            "line": 130,
+            "name": "I am navigated to homepage",
+            "match": {
+              "location": "Meritnation_PlayAVideoStep.i_am_navigated_to_homepage()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 124,
+            "name": "@tc_02_PlayVideo"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 145,
+        "name": "Title of your scenario outline",
+        "description": "",
+        "id": "aut:-meritnation;title-of-your-scenario-outline;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 29179990900,
+              "status": "passed"
+            },
+            "line": 138,
+            "name": "Login to the application.",
+            "match": {
+              "location": "loginpagestep1.login_to_the_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 136118800,
+              "status": "passed"
+            },
+            "line": 139,
+            "name": "I click the login button",
+            "match": {
+              "location": "loginpagestep1.i_click_the_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 284581399,
+              "status": "passed"
+            },
+            "line": 140,
+            "name": "I enter the valid \"adnanmohd11@gmail.com\" and \"Adnan260896\" to signin",
+            "match": {
+              "arguments": [
+                {
+                  "val": "adnanmohd11@gmail.com",
+                  "offset": 19
+                },
+                {
+                  "val": "Adnan260896",
+                  "offset": 47
+                }
+              ],
+              "location": "loginpagestep1.i_enter_the_valid_and_to_signin(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              2
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 19998665799,
+              "status": "passed"
+            },
+            "line": 141,
+            "name": "I click login button",
+            "match": {
+              "location": "loginpagestep1.i_click_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 136,
+            "name": "@Login"
+          },
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 148,
+        "name": "To enter name in Myprofilepage and select ADD FRIEND",
+        "description": "",
+        "id": "aut:-meritnation;to-enter-name-in-myprofilepage-and-select-add-friend",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 46483183300,
+              "status": "passed"
+            },
+            "line": 149,
+            "name": "I am logged in to the website",
+            "match": {
+              "location": "MyprofilepageStep.i_am_logged_in_to_the_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 85382300,
+              "status": "passed"
+            },
+            "line": 150,
+            "name": "I click ME link in homepage",
+            "match": {
+              "location": "MyprofilepageStep.i_click_ME_link_in_homepage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2393446200,
+              "status": "passed"
+            },
+            "line": 151,
+            "name": "I click MYPROFILE link",
+            "match": {
+              "location": "MyprofilepageStep.i_click_MYPROFILE_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 559906899,
+              "status": "passed"
+            },
+            "line": 152,
+            "name": "Myprofilepage is displayed",
+            "match": {
+              "location": "MyprofilepageStep.myprofilepage_is_displayed()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 763994600,
+              "status": "passed"
+            },
+            "line": 153,
+            "name": "I enter the SRAAWYA in Myprofilepage",
+            "match": {
+              "location": "MyprofilepageStep.i_enter_the_in_Myprofilepage()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 579375899,
+              "status": "passed"
+            },
+            "line": 154,
+            "name": "I select the SRAAWYA from various name",
+            "match": {
+              "location": "MyprofilepageStep.i_select_the_SRAAWYA_from_various_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6369458100,
+              "status": "passed"
+            },
+            "line": 155,
+            "name": "I press enter to see SRAAWYA profile",
+            "match": {
+              "location": "MyprofilepageStep.i_press_enter_to_see_SRAAWYA_profile()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 147,
+            "name": "@Myprofilepage"
+          }
+        ]
+      },
+      {
+        "line": 158,
+        "name": "To enter name in Myprofilepage and select ADD FRIEND",
+        "description": "",
+        "id": "aut:-meritnation;to-enter-name-in-myprofilepage-and-select-add-friend",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 44588998901,
+              "status": "passed"
+            },
+            "line": 159,
+            "name": "I am logged in to the website",
+            "match": {
+              "location": "MyprofilepageStep.i_am_logged_in_to_the_website()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 98306600,
+              "status": "passed"
+            },
+            "line": 160,
+            "name": "I click ME link in homepage",
+            "match": {
+              "location": "MyprofilepageStep.i_click_ME_link_in_homepage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1552206800,
+              "status": "passed"
+            },
+            "line": 161,
+            "name": "I click MYPROFILE link",
+            "match": {
+              "location": "MyprofilepageStep.i_click_MYPROFILE_link()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1302348099,
+              "status": "passed"
+            },
+            "line": 162,
+            "name": "Myprofilepage is displayed",
+            "match": {
+              "location": "MyprofilepageStep.myprofilepage_is_displayed()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 163,
+            "name": "I enter the name in Myprofilepage",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 164,
+            "name": "I select the SRAAWYA from various name",
+            "match": {
+              "location": "MyprofilepageStep.i_select_the_SRAAWYA_from_various_name()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 165,
+            "name": "I press enter to see SRAAWYA profile",
+            "match": {
+              "location": "MyprofilepageStep.i_press_enter_to_see_SRAAWYA_profile()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 157,
+            "name": "@Myprofilepage"
+          }
+        ]
+      },
+      {
+        "line": 168,
+        "name": "To edit parent details",
+        "description": "",
+        "id": "aut:-meritnation;to-edit-parent-details",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 43198327400,
+              "status": "passed"
+            },
+            "line": 169,
+            "name": "I click on ADD YOUR ADDRESS link",
+            "match": {
+              "location": "EditParentpagestep.i_click_on_ADD_YOUR_ADDRESS_link()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1324504701,
+              "status": "passed"
+            },
+            "line": 170,
+            "name": "I click on parent\u0027s details",
+            "match": {
+              "location": "EditParentpagestep.i_click_on_parent_s_details()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1936894301,
+              "status": "passed"
+            },
+            "line": 171,
+            "name": "I enter name, Email and MobileNo",
+            "match": {
+              "location": "EditParentpagestep.i_enter_name_Email_and_MobileNo()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 93880099,
+              "status": "passed"
+            },
+            "line": 172,
+            "name": "I click save",
+            "match": {
+              "location": "EditParentpagestep.i_click_save()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4693349300,
+              "status": "passed"
+            },
+            "line": 173,
+            "name": "parent details have been uploaded successfully",
+            "match": {
+              "location": "EditParentpagestep.parent_details_have_been_uploaded_successfully()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 167,
+            "name": "@editparentdetails"
+          }
+        ]
+      },
+      {
+        "line": 176,
+        "name": "To call customer care support",
+        "description": "",
+        "id": "aut:-meritnation;to-call-customer-care-support",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 42284226200,
+              "status": "passed"
+            },
+            "line": 177,
+            "name": "I click on CALL ME link in homepage",
+            "match": {
+              "location": "CallMepagestep.i_click_on_CALL_ME_link_in_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 778950200,
+              "status": "passed"
+            },
+            "line": 178,
+            "name": "I enter Mobileno",
+            "match": {
+              "location": "CallMepagestep.i_enter_Mobileno()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 53710300,
+              "status": "passed"
+            },
+            "line": 179,
+            "name": "I click on CALL NOW",
+            "match": {
+              "location": "CallMepagestep.i_click_on_CALL_NOW()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4447126700,
+              "status": "passed"
+            },
+            "line": 180,
+            "name": "call is placed to the customer care",
+            "match": {
+              "location": "CallMepagestep.call_is_placed_to_the_customer_care()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 175,
+            "name": "@Callme"
+          }
+        ]
+      },
+      {
+        "line": 193,
+        "name": "Login to the application.",
+        "description": "",
+        "id": "aut:-meritnation;login-to-the-application.;;2",
+        "type": "scenario",
+        "keyword": "Scenario Outline",
+        "steps": [
+          {
+            "result": {
+              "duration": 28295243100,
+              "status": "passed"
+            },
+            "line": 186,
+            "name": "I am on the Homa Page",
+            "match": {
+              "location": "Meritnation_test.launch_app()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 149677700,
+              "status": "passed"
+            },
+            "line": 187,
+            "name": "I click the login button in the homepage",
+            "match": {
+              "location": "Meritnation_test.to_login()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 330653300,
+              "status": "passed"
+            },
+            "line": 188,
+            "name": "I enter valid \"meritnationteacher.teacher@gmail.com\" and \"Teacher@5\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "meritnationteacher.teacher@gmail.com",
+                  "offset": 15
+                },
+                {
+                  "val": "Teacher@5",
+                  "offset": 58
+                }
+              ],
+              "location": "Meritnation_test.enter_email_and_pwd(String,String)"
+            },
+            "matchedColumns": [
+              0,
+              1
+            ],
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 4625109800,
+              "status": "passed"
+            },
+            "line": 189,
+            "name": "I click login button in the loginpage",
+            "match": {
+              "location": "Meritnation_test.click_login_button()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 1,
+            "name": "@student"
+          },
+          {
+            "line": 184,
+            "name": "@tc_01_login"
+          },
+          {
+            "line": 1,
+            "name": "@Meritnation"
+          }
+        ]
+      },
+      {
+        "line": 196,
+        "name": "selecting a subject to view the NCERT solution",
+        "description": "",
+        "id": "aut:-meritnation;selecting-a-subject-to-view-the-ncert-solution",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 42247884900,
+              "status": "passed"
+            },
+            "line": 197,
+            "name": "I logged in to the application \u0026 I am on Home Page",
+            "match": {
+              "location": "Meritnation_test.navigate_to_Homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2752692400,
+              "status": "passed"
+            },
+            "line": 198,
+            "name": "I click the subject",
+            "match": {
+              "location": "Meritnation_test.click_subject()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 33882900,
+              "status": "passed"
+            },
+            "line": 199,
+            "name": "I navigate to study page",
+            "match": {
+              "location": "Meritnation_test.navigate_to_Studypage()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 2479807000,
+              "status": "passed"
+            },
+            "line": 200,
+            "name": "I click the topic",
+            "match": {
+              "location": "Meritnation_test.click_topic()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 195723700,
+              "status": "passed"
+            },
+            "line": 201,
+            "name": "I click the view NCERT solution",
+            "match": {
+              "location": "Meritnation_test.view_ncert_solution()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 1870454700,
+              "status": "passed"
+            },
+            "line": 202,
+            "name": "I take screenshot of the solution",
+            "match": {
+              "location": "Meritnation_test.take_screenshot()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 195,
+            "name": "@tc_02_view_NCERT_solution"
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 204,
+            "value": "#I want to select IIT-JEE \u0026 NEET from the Entrance Exams"
+          },
+          {
+            "line": 205,
+            "value": "#and I can select revision notes \u0026 best books"
+          },
+          {
+            "line": 206,
+            "value": "#So that I can download \u0026 take screenshot respectively"
+          }
+        ],
+        "line": 208,
+        "name": "select IIT-JEE to download revision notes",
+        "description": "",
+        "id": "aut:-meritnation;select-iit-jee-to-download-revision-notes",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 13025800100,
+              "status": "passed"
+            },
+            "line": 209,
+            "name": "I am on the HomePage",
+            "match": {
+              "location": "Meritnation_test.HomePage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 33446201300,
+              "status": "passed"
+            },
+            "line": 210,
+            "name": "I click the IIT-JEE from the dropdown",
+            "match": {
+              "location": "Meritnation_test.IIT_JEE()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2931547300,
+              "status": "passed"
+            },
+            "line": 211,
+            "name": "I click the motion topic",
+            "match": {
+              "location": "Meritnation_test.click_motion_topic()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 185863100,
+              "status": "passed"
+            },
+            "line": 212,
+            "name": "I click the view revision notes button",
+            "match": {
+              "location": "Meritnation_test.click_revisionNotes()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 2006103500,
+              "status": "passed"
+            },
+            "line": 213,
+            "name": "I click the download button",
+            "match": {
+              "location": "Meritnation_test.download_revnotes()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 207,
+            "name": "@download_RevisionNotes"
+          }
+        ]
+      },
+      {
+        "line": 216,
+        "name": "select IITJEE to know the important books",
+        "description": "",
+        "id": "aut:-meritnation;select-iitjee-to-know-the-important-books",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 44830400200,
+              "status": "passed"
+            },
+            "line": 217,
+            "name": "Iam logged in to application \u0026 I am on the Home Page",
+            "match": {
+              "location": "Meritnation_test.navigate_to_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2013669000,
+              "status": "passed"
+            },
+            "line": 218,
+            "name": "I click the IITJEE from the dropdown",
+            "match": {
+              "location": "Meritnation_test.IITJEE()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 9622440900,
+              "status": "passed"
+            },
+            "line": 219,
+            "name": "I click Science-practicals and take screenshot",
+            "match": {
+              "location": "Meritnation_test.science_practicals()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 215,
+            "name": "@Science-practical"
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 221,
+            "value": "#I want to explore the take a break page"
+          },
+          {
+            "line": 222,
+            "value": "#and click the daily teaser"
+          },
+          {
+            "line": 223,
+            "value": "#So that I can see solution for yesterday\u0027s teaser"
+          }
+        ],
+        "line": 225,
+        "name": "take a break page",
+        "description": "",
+        "id": "aut:-meritnation;take-a-break-page",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 43022764900,
+              "status": "passed"
+            },
+            "line": 226,
+            "name": "I am in the HomePage",
+            "match": {
+              "location": "Meritnation_test.In_hoempage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 2670047800,
+              "status": "passed"
+            },
+            "line": 227,
+            "name": "I click on the take a break",
+            "match": {
+              "location": "Meritnation_test.click_on_tab()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1405987400,
+              "status": "passed"
+            },
+            "line": 228,
+            "name": "I click on the daily teaser",
+            "match": {
+              "location": "Meritnation_test.click_on_dailyteaser()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4778298900,
+              "status": "passed"
+            },
+            "line": 229,
+            "name": "I click on the view solution for yesterday\u0027s teaser",
+            "match": {
+              "location": "Meritnation_test.click_on_view_solution_of_yesterday_sol()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 224,
+            "name": "@Take-a-break"
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 231,
+            "value": "#I want to explore the discover yourself"
+          },
+          {
+            "line": 232,
+            "value": "#and I click the career guidance and field options"
+          },
+          {
+            "line": 233,
+            "value": "#So that I can take the screenshots"
+          }
+        ],
+        "line": 235,
+        "name": "explore discover your self",
+        "description": "",
+        "id": "aut:-meritnation;explore-discover-your-self",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 11843088700,
+              "status": "passed"
+            },
+            "line": 236,
+            "name": "I need to be in Home Page",
+            "match": {
+              "location": "Meritnation_test.in_homepage()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 33349353900,
+              "status": "passed"
+            },
+            "line": 237,
+            "name": "I click career guidance option from Discover your self",
+            "match": {
+              "location": "Meritnation_test.career_guidance()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 1446479700,
+              "status": "passed"
+            },
+            "line": 238,
+            "name": "I click on the medical field",
+            "match": {
+              "location": "Meritnation_test.medical_field()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 4557137600,
+              "status": "passed"
+            },
+            "line": 239,
+            "name": "I take the screenshot",
+            "match": {
+              "location": "Meritnation_test.screenshot()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "line": 234,
+            "name": "@Discover-your-self"
+          }
+        ]
+      },
+      {
+        "line": 242,
+        "name": "take screenshots",
+        "description": "",
+        "id": "aut:-meritnation;take-screenshots",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 42685725200,
+              "status": "passed"
+            },
+            "line": 243,
+            "name": "I am on the career guidance page",
+            "match": {
+              "location": "Meritnation_test.on_careerguidance_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 3488104200,
+              "status": "passed"
+            },
+            "line": 244,
+            "name": "I click on the skill builder",
+            "match": {
+              "location": "Meritnation_test.skill_builder()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 5911118500,
+              "status": "passed"
+            },
+            "line": 245,
+            "name": "I click on speaking in public and take a screenshot",
+            "match": {
+              "location": "Meritnation_test.speaking_in_public()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 241,
+            "name": "@skill-builder"
+          }
+        ]
+      },
+      {
+        "comments": [
+          {
+            "line": 247,
+            "value": "#I want to add students to the existing batch in the profile page"
+          },
+          {
+            "line": 248,
+            "value": "#and i want to logout from the application"
+          }
+        ],
+        "line": 250,
+        "name": "adding students to existing batch and logout from the application",
+        "description": "",
+        "id": "aut:-meritnation;adding-students-to-existing-batch-and-logout-from-the-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 26337921200,
+              "error_message": "org.openqa.selenium.WebDriverException: unknown error: failed to parse value of getElementRegion\n  (Session info: chrome\u003d80.0.3987.163)\nBuild info: version: \u00273.141.59\u0027, revision: \u0027e82be7d358\u0027, time: \u00272018-11-14T08:17:03\u0027\nSystem info: host: \u0027DESKTOP-LFJQBRS\u0027, ip: \u0027192.168.0.71\u0027, os.name: \u0027Windows 10\u0027, os.arch: \u0027amd64\u0027, os.version: \u002710.0\u0027, java.version: \u00271.8.0_241\u0027\nDriver info: org.openqa.selenium.chrome.ChromeDriver\nCapabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 80.0.3987.163, chrome: {chromedriverVersion: 80.0.3987.106 (f68069574609..., userDataDir: C:\\Users\\SRAAWYA CH\\AppData...}, goog:chromeOptions: {debuggerAddress: localhost:56776}, javascriptEnabled: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: WINDOWS, platformName: WINDOWS, proxy: Proxy(), setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify}\nSession ID: 13e279cca01b25968e10699008a38b10\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)\r\n\tat sun.reflect.NativeConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat sun.reflect.DelegatingConstructorAccessorImpl.newInstance(Unknown Source)\r\n\tat java.lang.reflect.Constructor.newInstance(Unknown Source)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)\r\n\tat org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)\r\n\tat org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)\r\n\tat org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)\r\n\tat org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:285)\r\n\tat org.openqa.selenium.remote.RemoteWebElement.click(RemoteWebElement.java:84)\r\n\tat com.seleniumutil.seleniumutil.close_popup(seleniumutil.java:37)\r\n\tat com.StepDefinition.Meritnation_test.home_page_of_application(Meritnation_test.java:294)\r\n\tat ✽.Given I am on the home page of the application(C:/Users/SRAAWYA CH/git/Cognizant_Project/Meritnation/src/test/resources/Features/Meritnation.feature:251)\r\n",
+              "status": "failed"
+            },
+            "line": 251,
+            "name": "I am on the home page of the application",
+            "match": {
+              "location": "Meritnation_test.home_page_of_application()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 252,
+            "name": "I add students to the existing batch",
+            "match": {
+              "location": "Meritnation_test.add_students_to_existing_batch()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "skipped"
+            },
+            "line": 253,
+            "name": "I logout from the application",
+            "match": {
+              "location": "Meritnation_test.logout_from_the_application()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "line": 249,
+            "name": "@add-students\u0026logout"
+          }
+        ]
+      }
+    ],
+    "name": "AUT: Meritnation",
+    "description": "As a user I want to see my profile details and update them.",
+    "id": "aut:-meritnation",
+    "keyword": "Feature",
+    "uri": "C:/Users/SRAAWYA CH/git/Cognizant_Project/Meritnation/src/test/resources/Features/Meritnation.feature",
+    "tags": [
+      {
+        "line": 1,
+        "name": "@Meritnation"
+      },
+      {
+        "line": 1,
+        "name": "@student"
+      }
+    ]
+  }
+]
